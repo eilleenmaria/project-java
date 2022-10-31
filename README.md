@@ -2,7 +2,7 @@
 <br>
 <h2 fill="#008080">CRUD java whit BD Sqlite Admin and IDLE Netbeans.</h2>
 <br>
-##\color[rgb]{	0 128 128}{Graphic Interface}
+$\color[rgb]{	0 128 128}{##Graphic Interface}$
 <h3 color[rgb]{1,0,1}>Graphic Interface</h3> 
 <br>
 <img alt="Graphic Interfaz project" src="src/system_employees/means/interfaz.png" width="300" >
