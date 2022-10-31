@@ -7,7 +7,7 @@
 <br>
 <img alt="Graphic Interfaz project" src="src/system_employees/means/interfaz.png" width="300" >
 <br>
-<h3 color="RED">Database SQLITE ADMIN</h3>
+<h3 '#008080'>Database SQLITE ADMIN</h3>
 <br>
 <img alt="database employees" src="src/system_employees/means/bd.png" width="300" >
 <br>
