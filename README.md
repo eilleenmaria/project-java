@@ -1,6 +1,12 @@
 # project-java
-<h2>CRUD java whit BD Mysqlite Admin and IDLE Netbeans.</h2>
 <br>
-Graphic Interface 
+<h2 color="#008080">CRUD java whit BD Sqlite Admin and IDLE Netbeans.</h2>
+<br>
+<h3 color="#00CED1">Graphic Interface</h3> 
 <br>
 <img alt="Graphic Interfaz project" src="src/system_employees/means/interfaz.png" width="300" >
+<br>
+<h3 color="#00CED1">Database SQLITE ADMIN</h3>
+<br>
+<img alt="database employees" src="src/system_employees/means/bd.png width="300" >
+<br>
