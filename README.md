@@ -11,3 +11,4 @@ $\color[rgb]{0,128,128}{##Graphic Interface}$
 <br>
 <img alt="database employees" src="src/system_employees/means/bd.png" width="300" >
 <br>
+<p style='color:red'>This is some red text.</p>
