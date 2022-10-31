@@ -1,6 +1,8 @@
 # project-java
 <br>
-<h2>CRUD java whit BD Sqlite Admin and IDLE Netbeans.</h2>
+<br>
+$\color[RGB]{0,128,128}\Large{CRUD java whit BD Sqlite Admin and IDLE Netbeans.}$
+<br>
 <br>
 $\color[RGB]{0,128,128}\Large{Graphic Interface}$
 <br>
