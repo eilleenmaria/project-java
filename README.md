@@ -8,5 +8,5 @@
 <br>
 <h3 style = color:"#00CED1">Database SQLITE ADMIN</h3>
 <br>
-<img alt="database employees" src="src/system_employees/means/bd.png width="300" >
+<img alt="database employees" src="src/system_employees/means/bd.png" width="200" >
 <br>
