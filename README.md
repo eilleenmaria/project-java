@@ -1,6 +1,6 @@
 # project-java
 <br>
-<h2 style= color:"#008080">CRUD java whit BD Sqlite Admin and IDLE Netbeans.</h2>
+<h2 fill="#008080">CRUD java whit BD Sqlite Admin and IDLE Netbeans.</h2>
 <br>
 $\ Graphic Interface$
 <h3 color[rgb]{1,0,1}>Graphic Interface</h3> 
